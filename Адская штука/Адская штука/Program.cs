@@ -8,6 +8,7 @@ namespace Адская_штука
         {
             Console.WriteLine("Hello World!");
             куку
+            ку
         }
     }
 }
