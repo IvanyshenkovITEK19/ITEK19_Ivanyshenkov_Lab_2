@@ -1,0 +1,3 @@
+C:\projects\ITEK19_Ivanyshenkov_Lab_2\Адская штука\Адская штука\obj\Debug\netcoreapp3.1\Адская штука.csprojAssemblyReference.cache
+C:\projects\ITEK19_Ivanyshenkov_Lab_2\Адская штука\Адская штука\obj\Debug\netcoreapp3.1\Адская штука.AssemblyInfoInputs.cache
+C:\projects\ITEK19_Ivanyshenkov_Lab_2\Адская штука\Адская штука\obj\Debug\netcoreapp3.1\Адская штука.AssemblyInfo.cs
